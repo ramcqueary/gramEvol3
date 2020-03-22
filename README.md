@@ -2,5 +2,5 @@
 all functions included, not just ones visible in global env
 
 ```
-devtools::install_github("ramcqueary/loadLib")
+devtools::install_github("ramcqueary/gramEvol3")
 ```
