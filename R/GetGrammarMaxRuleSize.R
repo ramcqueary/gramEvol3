@@ -1,0 +1,4 @@
+function (grammar) 
+{
+    grammar$maxRuleSize
+}
