@@ -63,5 +63,6 @@ S3method(print, EvolutionStrategy.int)
 S3method(print, GrammaticalEvolution)
 S3method(as.character, GEPhenotype)
 S3method(as.expression, GEPhenotype)
+S3method(as.expression, GEPhenotype)
 
 
