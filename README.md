@@ -5,7 +5,8 @@ all functions included, not just ones visible in global env
 devtools::install_github("ramcqueary/gramEvol3")
 ```
 
-  ApplyGrammarRule 	
+```
+  	ApplyGrammarRule 	
 	ChosenGrammarRule
 	CreateGrammar
 	CreateGrammarFromTextList
@@ -78,4 +79,4 @@ devtools::install_github("ramcqueary/gramEvol3")
 	trim_brackets
 	trim_space
 	unescape.gt.lt
-
+```
